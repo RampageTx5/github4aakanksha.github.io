@@ -2,9 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Sectoral PE Analysis and Trading Strategy with Machine Learning 
 
-[Project 1 Title](/sample_page)
+[View Project on Github](/sample_page)
+Hi im aakanksha
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
