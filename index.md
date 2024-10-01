@@ -6,7 +6,7 @@
 This project focuses on developing a trading strategy based on sectoral price-to-earnings (PE) ratios for the health and industrial sectors using machine learning techniques. The process involves applying Fisher transformations to normalize the data and optimizing threshold values for buy/sell signals through hyperparameter tuning. Performance metrics such as Sharpe ratio, annualized returns, and Gini coefficient were used to evaluate the strategy. An equally weighted portfolio was constructed by combining the best-performing strategies from both sectors, demonstrating the potential of data-driven approaches in financial analysis and trading.
 
 [View Project on Github](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/portfolio1.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
