@@ -7,6 +7,7 @@ This project focuses on developing a trading strategy based on sectoral price-to
 
 [View Project on Github](/sample_page)
 <img src="images/portfolio1.png?raw=true"/>
+<img src="images/portfolio 2.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
